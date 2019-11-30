@@ -1,7 +1,7 @@
 {
     "name": "neosuperpixel",
     "version": "0.6.12",
-    "description": "Mine NeoPixel driver",
+    "description": "Mine super NeoPixel driver",
     "license": "MIT",
     "dependencies": {
         "core": "*",
